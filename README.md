@@ -1,5 +1,5 @@
 # Exploding Kitten Game 🐱💣
-![screencapture-exploding-kittens-alpha-vercel-app-2024-02-20-12_25_57](https://github.com/harshkhavale/exploding-kittens/assets/91471322/38b35441-6fba-4f9e-99c6-804d84cb7a34)
+![screencapture-kittens-game-three-vercel-app-2024-04-04-00_12_46](https://github.com/harshkhavale/kittens-game/assets/91471322/cd39005a-62f5-4fb5-ac6c-6233a6cb7b7f)
 
 ## Introduction
 
@@ -25,13 +25,13 @@ https://exploding-kittens-alpha.vercel.app/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/harshkhavale/exploding-kittens
+https://github.com/harshkhavale/kittens-game
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd exploding-kitten-game
+cd kittens-game
 ```
 
 3. **Install dependencies for frontend and backend:**
