@@ -17,7 +17,7 @@ Welcome to the Exploding Kitten web-based single-player card game! This project 
 🔃. **Try the Game:**
 
 ```bash
-https://exploding-kittens-alpha.vercel.app/
+https://kittens-game-three.vercel.app/
 ```
 
 ## Installation 🛠️
